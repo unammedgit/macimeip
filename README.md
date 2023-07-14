@@ -14,3 +14,29 @@ MACIMEIP è uno strumento Python per l'OSINT (Open Source Intelligence) che cons
 ## Installazione
 
 1. Clona il repository:
+git clone https://github.com/unammedgit/macimeip.git
+
+2. Naviga nella directory del progetto:
+
+cd MACIMEIP
+
+
+3. Installa le dipendenze:
+
+pip install -r requirements.txt
+
+## Utilizzo
+
+1. Esegui il file `macimeip.py`:
+
+python macimeip.py
+2. Segui le istruzioni visualizzate per selezionare l'opzione desiderata e inserire i dati richiesti.
+
+## Contributi
+
+Sono benvenuti i contributi a questo progetto! Se hai suggerimenti, miglioramenti o nuove funzionalità da aggiungere, sentiti libero di aprire una Issue o inviare una Pull Request.
+
+## Attribuzioni
+
+- Logo MACIMEIP creato da [UnammedGit](https://github.com/unammedgit)
+
